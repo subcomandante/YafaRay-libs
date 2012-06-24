@@ -1,0 +1,557 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/bf-blender/!svn/ver/35380/trunk/lib/windows/python/include/python3.2
+END
+ucnhash.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/ucnhash.h
+END
+bytearrayobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/bytearrayobject.h
+END
+iterobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/iterobject.h
+END
+enumobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/enumobject.h
+END
+datetime.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/datetime.h
+END
+classobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/classobject.h
+END
+pyport.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pyport.h
+END
+complexobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/complexobject.h
+END
+codecs.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/codecs.h
+END
+longintrepr.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/longintrepr.h
+END
+bytes_methods.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/bytes_methods.h
+END
+opcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/opcode.h
+END
+dictobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/dictobject.h
+END
+code.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/code.h
+END
+py_curses.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/py_curses.h
+END
+unicodeobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/unicodeobject.h
+END
+pystrcmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pystrcmp.h
+END
+asdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/asdl.h
+END
+errcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/errcode.h
+END
+rangeobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/rangeobject.h
+END
+pyatomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pyatomic.h
+END
+pgenheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pgenheaders.h
+END
+ceval.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/ceval.h
+END
+objimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/objimpl.h
+END
+timefuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/timefuncs.h
+END
+pyarena.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pyarena.h
+END
+fileutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/fileutils.h
+END
+listobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/listobject.h
+END
+graminit.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/graminit.h
+END
+pygetopt.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pygetopt.h
+END
+moduleobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/moduleobject.h
+END
+traceback.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/traceback.h
+END
+token.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/token.h
+END
+Python.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/Python.h
+END
+funcobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/funcobject.h
+END
+osdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/osdefs.h
+END
+grammar.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/grammar.h
+END
+pymem.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pymem.h
+END
+ast.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/ast.h
+END
+patchlevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/patchlevel.h
+END
+parsetok.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/parsetok.h
+END
+pystate.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pystate.h
+END
+bitset.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/bitset.h
+END
+floatobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/floatobject.h
+END
+structseq.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/structseq.h
+END
+pyctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pyctype.h
+END
+pymath.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pymath.h
+END
+abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/abstract.h
+END
+pycapsule.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pycapsule.h
+END
+typeslots.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/typeslots.h
+END
+pythonrun.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/35380/trunk/lib/windows/python/include/python3.2/pythonrun.h
+END
+cellobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/cellobject.h
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/object.h
+END
+pytime.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pytime.h
+END
+methodobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/methodobject.h
+END
+import.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/import.h
+END
+weakrefobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/weakrefobject.h
+END
+structmember.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/structmember.h
+END
+tupleobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/tupleobject.h
+END
+symtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/symtable.h
+END
+pythread.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pythread.h
+END
+boolobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/boolobject.h
+END
+pyfpe.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pyfpe.h
+END
+marshal.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/marshal.h
+END
+descrobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/descrobject.h
+END
+dtoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/dtoa.h
+END
+compile.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/compile.h
+END
+pystrtod.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pystrtod.h
+END
+warnings.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/warnings.h
+END
+pgen.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pgen.h
+END
+pyexpat.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pyexpat.h
+END
+metagrammar.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/metagrammar.h
+END
+pydebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pydebug.h
+END
+memoryobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/memoryobject.h
+END
+pymacconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pymacconfig.h
+END
+genobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/genobject.h
+END
+dynamic_annotations.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/dynamic_annotations.h
+END
+Python-ast.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/Python-ast.h
+END
+fileobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/fileobject.h
+END
+intrcheck.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/intrcheck.h
+END
+modsupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/modsupport.h
+END
+bytesobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/bytesobject.h
+END
+pyconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pyconfig.h
+END
+bltinmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/bltinmodule.h
+END
+frameobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/frameobject.h
+END
+setobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/setobject.h
+END
+sysmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/sysmodule.h
+END
+pyerrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/pyerrors.h
+END
+node.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/node.h
+END
+longobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/longobject.h
+END
+sliceobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/sliceobject.h
+END
+eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/bf-blender/!svn/ver/35341/trunk/lib/windows/python/include/python3.2/eval.h
+END
